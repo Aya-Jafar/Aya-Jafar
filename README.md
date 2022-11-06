@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aya-jafar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aya-jafar) [![Kaggle](https://www.dataapplab.com/wp-content/uploads/2016/10/kaggle-logo-transparent-300.png)](https://www.kaggle.com/ayajafar) 
 
 
 # 💻 Tech Stack:
