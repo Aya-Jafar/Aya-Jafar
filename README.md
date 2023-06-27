@@ -13,10 +13,16 @@
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aya-jafar&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aya-jafar&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact) 
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-6">
+      <img src="https://github-readme-stats.vercel.app/api?username=aya-jafar&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+    </div>
+    <div class="col-md-6">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aya-jafar&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+    </div>
+  </div>
+</div>
 
 
 
