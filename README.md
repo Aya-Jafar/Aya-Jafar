@@ -14,10 +14,10 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex;">
-  <div style="flex: 1;">
+  <div style="flex: 2;">
     <img src="https://github-readme-stats.vercel.app/api?username=aya-jafar&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
   </div>
-  <div style="flex: 1;">
+  <div style="flex: 4;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aya-jafar&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
   </div>
 </div>
