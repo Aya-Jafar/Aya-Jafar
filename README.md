@@ -1,9 +1,10 @@
 <a href="https://github.com/Aya-Jafar">
   <img
-    src="https://readme-typing-svg.demolab.com?&size=30&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Aya+Jafar;Web+Development+%7C+Art+%7C+AI+%7C+Software+Engineering+%7C"
+    src="https://readme-typing-svg.demolab.com?&size=30&duration=2000&pause=100&multiline=true&width=600&height=100&lines=Aya+Jafar;Web+Development+%7C+Art+%7C+AI+%7C;Software+Engineering+%7C"
     alt="Typing SVG"
   />
 </a>
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
