@@ -1,9 +1,4 @@
-<a href="https://github.com/Aya-Jafar">
-  <img
-    src="https://readme-typing-svg.demolab.com?&size=30&duration=2000&pause=100&multiline=true&width=600&height=100&lines=Aya+Jafar;Web+Development+%7C+Art+%7C+AI+%7C;Software+Engineering+%7C"
-    alt="Typing SVG"
-  />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=000000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Aya+Jafar;Web+development+%7C+Art+%7C+AI+%7CSoftware+engineering" alt="Typing SVG" /></a>
 <br/>
 
 
